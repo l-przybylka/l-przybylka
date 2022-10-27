@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning JavaScript MERN stack
 
-💬 Ask me about baking sourdough bread
+💬 Ask me about baking sourdough bread.
 
 <!--
 **l-przybylka/l-przybylka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
