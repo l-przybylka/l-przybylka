@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on my app to share recipes with your friends, where everyone can add new recipes
 
-🌱 I’m currently learning JavaScript MERN stack
+🌱 I’m currently learning REACT
 
 💬 Ask me about baking sourdough bread
 
