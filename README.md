@@ -7,9 +7,9 @@ With time I realised that programming interests me more than eCommerce. That’s
 Now, I'm looking to change my career and fully focus on programming.
 
 
-🔭 I have finished my first full-stack project in vanilla JS. 
+🔭 I have finished my full-stack project in vanilla JS https://recipes-with-friends.onrender.com/. 
 
-🌱 I’m currently learning REACT and Material UI by buildiing a Watchlist app to save and rate your favourite movies and shows.
+🌱 I’m currently buildiing a Watchlist app to save and rate your favourite movies and shows in REACT and Material UI.
 
 💬 Ask me about baking sourdough bread.
 
