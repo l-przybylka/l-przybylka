@@ -9,6 +9,8 @@ Now, I'm looking to change my career and fully focus on programming.
 
 🔭 I have finished my full-stack project in vanilla JS https://recipes-with-friends.onrender.com/. 
 
+⚡ I'm really interested in AI and in how it can improve our lives. I've been using ChatGPT to help me solve problems at my current role.
+
 🌱 I’m currently buildiing a Watchlist app to save and rate your favourite movies and shows in REACT and Material UI.
 
 💬 Ask me about baking sourdough bread.
