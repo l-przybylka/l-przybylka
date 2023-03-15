@@ -18,7 +18,7 @@ Now, I'm looking to change my career and fully focus on programming.
 
 
 <!--
-**l-przybylka/l-przybylka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**l-przybylka/l-przybylka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 .
 Here are some ideas to get you started:
 
