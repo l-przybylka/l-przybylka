@@ -11,7 +11,7 @@ Now, I'm looking to change my career and fully focus on programming.
 
 ⚡ I'm really interested in AI and in how it can improve our lives. I've been using ChatGPT to help me solve problems at my current role.
 
-🌱 I’m currently buildiing a Watchlist app to save and rate your favourite movies and shows in REACT and Material UI.
+🌱 I’m currently helping build MancJS meetup website using TDD, Next.js and TypeScript.
 
 💬 Ask me about baking sourdough bread.
 
