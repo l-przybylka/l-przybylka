@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I started my digital journey in eCommerce, where I’ve picked up the coding skills necessary for my job. Building simple newsletter emails and static pages. I’ve also gained experience working with a digital agency and other Software Engineers working on new features for our website. 
+I started my digital journey in eCommerce, where I’ve picked up the coding skills necessary for my job. Building simple newsletter emails and static pages. I’ve also gained experience working with a digital agency and other software engineers on new features for our website. 
 
 With time I realised that programming interests me more than eCommerce. That’s where my proper programming journey began combining my previous experience, and problem-solving skills gained working with a tricky CMS system. 
 
