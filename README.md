@@ -9,9 +9,9 @@ Now, I'm looking to change my career and fully focus on programming.
 
 🔭 I have finished my full-stack project in vanilla JS https://recipes-with-friends.onrender.com/. 
 
-⚡ I'm really interested in AI and in how it can improve our lives. I've been using ChatGPT to help me solve problems at my current role.
+⚡ I'm really interested in AI and how it can improve our lives. I've been using ChatGPT to help me solve problems in my current role.
 
-🌱 I’m currently collaborating on MancJS meetup website using TDD approach with jest as well as Next.js and TypeScript.
+🌱 I’m currently collaborating on the MancJS meetup website using the TDD approach with jest as well as Next.js and TypeScript.
 
 💬 Ask me about baking sourdough bread.
 
