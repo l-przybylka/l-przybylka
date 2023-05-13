@@ -4,7 +4,7 @@ I started my digital journey in eCommerce, where I’ve picked up the coding ski
 
 With time I realised that programming interests me more than eCommerce. That’s where my proper programming journey began combining my previous experience, and problem-solving skills gained working with a tricky CMS system. 
 
-Now, I'm looking to change my career and fully focus on programming.
+Now, I'm looking to change my career and entirely focus on programming.
 
 
 🔭 I have finished my full-stack project in vanilla JS https://recipes-with-friends.onrender.com/. 
