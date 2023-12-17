@@ -7,13 +7,13 @@ With time I realised that programming interests me more than eCommerce. That’s
 Now, I'm looking to change my career and entirely focus on programming.
 
 
-🔭 My first full-stack project in vanilla JS https://recipes-with-friends.onrender.com/. 
+🔭 See my most recent projects pinned below, you will find there a mixture of Infrastructure as Code in Terraform and Pulumi as well as front-end and full-stack projects. 
 
-⚡ I'm really interested in AI and how it can improve our lives. I've been using ChatGPT to help me solve problems in my current role.
+⚡ I'm interested in AI and how it can improve our lives.
 
-🌱 I’m worked on the MancJS meetup website using the TDD approach with jest as well as Next.js and TypeScript. https://github.com/BenSeward/mancjs
+🌱 I’ve worked on the MancJS meetup website using the TDD approach with jest as well as Next.js and TypeScript. https://github.com/BenSeward/mancjs
 
-🌱 I'm currently working on cloud projects using AWS and Terraform
+🌱 I'm currently learning and building cloud-related projects, my most recent one is written in Pulumi using TypeScript and OOP.
 
 💬 Ask me about baking sourdough bread.
 
